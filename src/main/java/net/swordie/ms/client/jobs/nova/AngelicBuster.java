@@ -80,6 +80,9 @@ public class AngelicBuster extends Job {
     public static final int NOVA_WARRIOR_AB = 65121009; //Buff
     public static final int SOUL_SEEKER_EXPERT = 65121011; //ON/OFF Buff
     public static final int NOVA_TEMPERANCE_AB = 65121010;
+    public static final int SOUL_RESONANCE = 65121003;
+
+    public static final int SUPREME_SUPERNOVA = 65121052;
 
 
     //Hypers

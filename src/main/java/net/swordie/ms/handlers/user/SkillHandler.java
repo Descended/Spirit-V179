@@ -377,6 +377,10 @@ public class SkillHandler {
         tsm.removeStatsBySkill(skillId);
 
         if (SkillConstants.isKeyDownSkill(skillId)) {
+            if(SkillConstants.isKeydownCDSkill(skillId)){
+                Skill skill = chr.getSkill(skillId);
+                chr.setSkillCooldown(skillId, (byte) skill.getCurrentLevel());
+            }
             chr.getField().broadcastPacket(UserRemote.skillCancel(chr.getId(), skillId), chr);
         }
 

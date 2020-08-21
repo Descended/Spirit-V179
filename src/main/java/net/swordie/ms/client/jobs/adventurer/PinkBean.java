@@ -54,6 +54,7 @@ public class PinkBean extends Job {
     public static final int BLAZING_YOYO = 131001010;
     public static final int BLAZING_YOYO_2 = 131001011;
 
+
     private int yoyo;
     private final int MAX_YOYO_STACK = 8;
     private ScheduledFuture yoyoStackTimer;

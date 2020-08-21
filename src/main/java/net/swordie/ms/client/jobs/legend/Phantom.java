@@ -66,6 +66,7 @@ public class Phantom extends Job {
     public static final int MAPLE_WARRIOR_PH = 24121008; //Buff
     public static final int CARTE_NOIR = 24120002;              //80001890
     public static final int HEROS_WILL_PH = 24121009;
+    public static final int TEMPEST = 24121005;
 
     public static final int HEROIC_MEMORIES_PH = 24121053;
     public static final int CARTE_ROSE_FINALE = 24121052;

@@ -61,6 +61,8 @@ public class BeastTamer extends Job {
     public static final int MAJESTIC_TRUMPET = 112001006;
     public static final int BEAR_REBORN = 112000016;
     public static final int BEAR_ASSAULT = 112001009;
+    public static final int FISHY_SLAP = 112001008;
+
 
     //Snow Leopard Mode
     public static final int BRO_ATTACK = 112101016;
@@ -77,6 +79,8 @@ public class BeastTamer extends Job {
     public static final int RAZOR_BEAK = 112111008;
     public static final int REGROUP = 112111011;    //Warp Party to player
     public static final int DEFENSIVE_FORMATION = 112110005;
+    public static final int TORNADO_FLIGHT = 112001016;
+
 
     //Cat Mode
     public static final int MEOW_HEAL = 112121013;

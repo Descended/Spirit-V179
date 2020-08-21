@@ -57,6 +57,7 @@ public class Shade extends Job {
     public static final int SOUL_SPLITTER = 25121007; //Special Attack (Split)
     public static final int FIRE_FOX_SPIRIT_MASTERY = 25120110;
     public static final int HEROS_WILL_SH = 25121211;
+    public static final int SPIRIT_FRENZY = 25111005;
 
     public static final int HEROIC_MEMORIES_SH = 25121132;
     public static final int SPIRIT_BOND_MAX = 25121131;
