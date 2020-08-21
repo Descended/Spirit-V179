@@ -1,0 +1,1 @@
+sm.spawnLotus(2, 0)
